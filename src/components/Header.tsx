@@ -30,7 +30,7 @@ const Header: React.FC<Props> = () => {
           },
         }}
         className="h-16 cursor-pointer"
-        src="src/assets/logo.png"
+        src="/assets/logo.png"
         alt="logo"
       />
 

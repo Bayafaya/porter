@@ -7,12 +7,12 @@ import { motion } from "framer-motion";
 const Services: React.FC = () => {
   const { t } = useTranslation();
   const services = [
-    { url: "src/assets/relocate.jpeg", title: "homeRelocate" },
-    { url: "src/assets/office.jpeg", title: "officeRelocate" },
-    { url: "src/assets/betweenCites.jpeg", title: "betweenCities" },
-    { url: "src/assets/garbage.jpeg", title: "garbageCollection" },
-    { url: "src/assets/buildMaterials.jpeg", title: "buildMaterials" },
-    { url: "src/assets/movers.jpeg", title: "movers" },
+    { url: "/assets/relocate.jpeg", title: "homeRelocate" },
+    { url: "/assets/office.jpeg", title: "officeRelocate" },
+    { url: "/assets/betweenCites.jpeg", title: "betweenCities" },
+    { url: "/assets/garbage.jpeg", title: "garbageCollection" },
+    { url: "/assets/buildMaterials.jpeg", title: "buildMaterials" },
+    { url: "/assets/movers.jpeg", title: "movers" },
 ];
   return (
     <section className="p-4 flex flex-col gap-10 bg-primary text-white">
