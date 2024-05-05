@@ -1,0 +1,18 @@
+{
+    "mainText": "Салам",
+    "call": "Байланышуу",
+    "services": "Биздин кызматтар",
+    "officeRelocate": "Офисди көчүрүү",
+    "homeRelocate": "Yй көчүрүү",
+    "betweenCities": "Шаарлар арасында көчүрүү",
+    "garbageCollection": "Таштанды чыгаруу",
+    "buildMaterials": "Курал материалдарын жеткирүү",
+    "movers": "Көчүрүүчүлөр",
+    "howWeWorks": "Биз кандай иштейбиз",
+    "youCallToUs": "Сиз бизге чаласыз",
+    "weSelectCarDevelopRoute": "Машина тандайбыз жана маршрутту дайындайбыз",
+    "weAgreePrice": "Баасын тактайбыз, жана келишимди түсөбүз",
+    "weDeliverOnTime": "Жүктү убактысында жеткизип беребиз",
+    "aboutUs": "Биз жөнүндө",
+    "contacts": "Байланышуу"
+}
